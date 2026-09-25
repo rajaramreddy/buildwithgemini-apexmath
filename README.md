@@ -12,6 +12,10 @@ An agentic math tutor that delivers targeted curriculum problems, provides progr
 
 <br/>
 
+🎬 **[Watch / Download Full Demo Video with Audio (MP4)](assets/apexmath_demo.mp4)**
+
+<br/>
+
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Agent%20Platform-4285F4?logo=googlecloud&logoColor=white)
 ![ADK](https://img.shields.io/badge/ADK-Agent%20Development%20Kit-34A853)
 ![A2UI](https://img.shields.io/badge/UI-A2UI%200.8-EA4335)
