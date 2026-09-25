@@ -29,6 +29,8 @@ An agentic math tutor that delivers targeted curriculum problems, provides progr
 
 ## 📖 Overview
 
+> 📋 **Detailed Engineering Log**: See [`WALKTHROUGH.md`](WALKTHROUGH.md) for the complete step-by-step implementation, deployment, and testing records.
+
 **ApexMath** is an AI tutor specifically engineered for high school Pre-Calculus and AP Calculus (AB and BC) students. Rather than merely presenting solutions, ApexMath acts as an interactive tutor:
 
 1. **Curriculum Problem Retrieval**: Fetches structured exercises across Limits, Derivatives, Integrals, Series, and Trigonometry.
